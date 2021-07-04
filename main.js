@@ -1,3 +1,12 @@
+$(window).on("load",function(){
+// $(".preloader-bg").fadeOut("slow");
+
+setTimeout(function() { 
+  $(".preloader-bg").fadeOut(); 
+}, 2000);
+});
+
+
 // print('testtt')
 var basicTimeline = anime.timeline({
     autoplay: false
