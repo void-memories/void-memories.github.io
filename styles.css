@@ -69,7 +69,7 @@ body{
 
 /* HOMEPAGE STYLING */
 .home{
-  padding-bottom: 20%-150px;
+  padding-bottom: 10%;
 }
 .home .max-width{
     height: 100%;
@@ -179,8 +179,8 @@ display: flex;
 
 
 .experience{
-  padding-top: 150px;
-  padding-bottom: 20%-150px;
+  padding-top: 125px;
+  padding-bottom: 10%;
     /* padding-left:3%; */
 }
 .experience-title{
@@ -243,8 +243,8 @@ hr.solid {
 
   /* PROJECTS SECTION */
   .projects{
-    padding-top: 150px;
-    padding-bottom: 20%-150px;
+    padding-top: 125px;
+    padding-bottom: 10%;
       
     }
   .projects-title{
@@ -605,6 +605,6 @@ nav ul .active a {
 .scrolled-nav {
   height: 60px !important;
   padding-top: 6px !important;
-  background: #0E0E0E !important;
+  background: #222222 !important;
   /* line-height: 60px !important; */
 }
